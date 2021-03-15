@@ -7,7 +7,7 @@ Para executar o código, siga as etapas abaixo.
 <li>Clone o diretório em sua máquina.</li>
 <li>Depois de clonado, entre na pasta clonada. Você tem duas opções para entrar na pasta clonada:</li> 
 <ol>
-  <li>Caso esteja utilizando o terminal, dê o seguinte comando cd ignite-template-reactjs-conceitos-do-react</li>
+  <li style="list-style-type:decimal">Caso esteja utilizando o terminal, dê o seguinte comando cd ignite-template-reactjs-conceitos-do-react</li>
   <li>Arraste a pasta para dentro do VSCODE ou seu editor de preferência</li>
 </ol>  
 
