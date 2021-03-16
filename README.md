@@ -12,7 +12,7 @@ Para executar o código, siga as etapas abaixo.
   
 <li>Agora abra o terminal de seu editor e instale as dependências utilizadas.</li> 
 <li>Com as dependências instaladas e ainda no terminal, dê o comando para iniciar o projeto. Se você utilizar YARN, o comando é yarn dev ou se você utilizar NPM, o comando é npm run dev.</li> 
-<li>Após o comando para iniciar o projeto, aguardo a mensagem de sucesso e digita no navegador localhost:8080.</li> 
+<li>Após o comando para iniciar o projeto, aguardo a mensagem de sucesso e digite no navegador localhost:8080.</li> 
 
 
 </ul>
